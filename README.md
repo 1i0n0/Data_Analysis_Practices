@@ -1,4 +1,4 @@
-# Data_Analysis_practice
+# Data_Analysis_Practices
 
 #### Description
 For study use only.
