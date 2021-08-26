@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding = UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 # 导入第三方模块
 import pandas as pd
